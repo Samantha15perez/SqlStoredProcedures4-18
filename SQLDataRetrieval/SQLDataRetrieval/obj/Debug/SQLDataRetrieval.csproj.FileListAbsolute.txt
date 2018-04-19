@@ -1,0 +1,20 @@
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\SQLDataRetrieval\SQLDataRetrieval\obj\Debug\SQLDataRetrieval.csprojResolveAssemblyReference.cache
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\SQLDataRetrieval\SQLDataRetrieval\obj\Debug\SQLDataRetrieval.Form1.resources
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\SQLDataRetrieval\SQLDataRetrieval\obj\Debug\SQLDataRetrieval.Properties.Resources.resources
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\SQLDataRetrieval\SQLDataRetrieval\obj\Debug\SQLDataRetrieval.csproj.GenerateResource.cache
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\SQLDataRetrieval\SQLDataRetrieval\obj\Debug\SQLDataRetrieval.csproj.CoreCompileInputs.cache
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\SQLDataRetrieval\SQLDataRetrieval\bin\Debug\SQLDataRetrieval.exe.config
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\SQLDataRetrieval\SQLDataRetrieval\bin\Debug\SQLDataRetrieval.exe
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\SQLDataRetrieval\SQLDataRetrieval\bin\Debug\SQLDataRetrieval.pdb
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\SQLDataRetrieval\SQLDataRetrieval\obj\Debug\SQLDataRetrieval.exe
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\SQLDataRetrieval\SQLDataRetrieval\obj\Debug\SQLDataRetrieval.pdb
+C:\Users\Cyberadmin\Desktop\SqlStoredProcedures4-18\SQLDataRetrieval\SQLDataRetrieval\bin\Debug\SQLDataRetrieval.exe.config
+C:\Users\Cyberadmin\Desktop\SqlStoredProcedures4-18\SQLDataRetrieval\SQLDataRetrieval\bin\Debug\SQLDataRetrieval.exe
+C:\Users\Cyberadmin\Desktop\SqlStoredProcedures4-18\SQLDataRetrieval\SQLDataRetrieval\bin\Debug\SQLDataRetrieval.pdb
+C:\Users\Cyberadmin\Desktop\SqlStoredProcedures4-18\SQLDataRetrieval\SQLDataRetrieval\obj\Debug\SQLDataRetrieval.csprojResolveAssemblyReference.cache
+C:\Users\Cyberadmin\Desktop\SqlStoredProcedures4-18\SQLDataRetrieval\SQLDataRetrieval\obj\Debug\SQLDataRetrieval.Form1.resources
+C:\Users\Cyberadmin\Desktop\SqlStoredProcedures4-18\SQLDataRetrieval\SQLDataRetrieval\obj\Debug\SQLDataRetrieval.Properties.Resources.resources
+C:\Users\Cyberadmin\Desktop\SqlStoredProcedures4-18\SQLDataRetrieval\SQLDataRetrieval\obj\Debug\SQLDataRetrieval.csproj.GenerateResource.cache
+C:\Users\Cyberadmin\Desktop\SqlStoredProcedures4-18\SQLDataRetrieval\SQLDataRetrieval\obj\Debug\SQLDataRetrieval.csproj.CoreCompileInputs.cache
+C:\Users\Cyberadmin\Desktop\SqlStoredProcedures4-18\SQLDataRetrieval\SQLDataRetrieval\obj\Debug\SQLDataRetrieval.exe
+C:\Users\Cyberadmin\Desktop\SqlStoredProcedures4-18\SQLDataRetrieval\SQLDataRetrieval\obj\Debug\SQLDataRetrieval.pdb
